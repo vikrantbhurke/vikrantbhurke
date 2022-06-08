@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikrantbhurke
 - 👀 I’m interested in all things software.
-- 🌱 I’m currently learning freeCodeCamp Curriculum
+- 🌱 I’m currently learning freeCodeCamp Curriculum.
 - 💞️ I’m looking to collaborate on interesting projects that are both within my skill scope and will challenge me to learn new things.
 - 📫 How to reach me - bhurkevi@gmail.com
 
