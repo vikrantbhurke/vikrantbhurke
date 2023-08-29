@@ -1,4 +1,4 @@
-Software Engineer. Reader. Writer. Gamer.
+Software Engineer
 
 - 👋 Hi, I’m @vikrantbhurke
 - 👀 I’m interested in all things Tech.
